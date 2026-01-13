@@ -15,7 +15,7 @@ The dashboard supports **data-driven decision-making** for:
 
 ## 📊 Dashboard Overview
 
-![Airsoft Equipment Insights Dashboard]([dashboard.png](https://github.com/vaibhavitayade/weapon--analysis-eda-dashboard-/blob/main/img/Weapon%20Dashbord.png))
+![Airsoft Equipment Insights Dashboard][dashboard.png](https://github.com/vaibhavitayade/weapon--analysis-eda-dashboard-/blob/main/img/Weapon%20Dashbord.png)
 
 *This dashboard provides a complete visual overview of the airsoft market, including weapon performance, brand distribution, pricing, availability, and technical specifications in a single interactive view.*
 
