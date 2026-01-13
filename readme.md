@@ -163,7 +163,7 @@ The dataset includes:
 ## 👩‍💻 Author
 
 **Vaibhavi Tayade**  
-Bachelor of Computer Applications – HVM, Amravati  
+Bachelor of Computer Applications – HVPM, Amravati  
 
 🔗 GitHub: https://github.com/vaibhavitayade  
 🔗 LinkedIn: https://www.linkedin.com/in/vaibhavi-tayade-70a444303/  
